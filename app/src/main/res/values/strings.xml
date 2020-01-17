@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLayoutsActivity</string>
+
+
+    <array name="layouts">
+        <item>FrameLayout</item>
+        <item>GridLayout</item>
+        <item>LinearLayout</item>
+    </array>
+
+    <array name="elements">
+        <item>Elemento1</item>
+        <item>Elemento2</item>
+        <item>Elemento3</item>
+    </array>
+
+</resources>
